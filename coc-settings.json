@@ -1,0 +1,5 @@
+{
+	"inlayHint.enable": false,
+	"signature.target": "echo",
+	"python.analysis.stubPath": "~/local/lib/python3.10/site-packages"
+}
